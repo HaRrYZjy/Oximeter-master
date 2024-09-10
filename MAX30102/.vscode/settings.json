@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "at24c02.h": "c",
+        "iic.h": "c"
+    }
+}
